@@ -1,6 +1,5 @@
 
 
-````md
 # WebSockets – Introduction (Pure WS) 🔌
 
 ## 📌 Overview
@@ -58,8 +57,6 @@ This mimics real-time communication used in chats, live tracking, and multiplaye
 ### 1️⃣ Install Dependencies
 ```bash
 npm install
-````
-
 ### 2️⃣ Start the Server
 
 ```bash
